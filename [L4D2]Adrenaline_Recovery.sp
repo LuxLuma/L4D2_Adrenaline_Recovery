@@ -34,7 +34,7 @@ public Plugin myinfo =
 	author = "Lux",
 	description = "Adrenaline makes you react faster to knockdowns and staggers",
 	version = PLUGIN_VERSION,
-	url = "-"
+	url = "https://forums.alliedmods.net/showthread.php?p=2606439"
 };
 
 public void OnPluginStart()
