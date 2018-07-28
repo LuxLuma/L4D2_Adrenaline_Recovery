@@ -47,7 +47,7 @@ public void OnPluginStart()
 	
 	HookEvent("round_start", eRoundStart);
 	
-	AutoExecConfig(true, "[L4D2]Adrenaline Recovery");
+	AutoExecConfig(true, "[L4D2]Adrenaline_Recovery");
 	CvarsChanged();
 	HookAll();
 }
